@@ -28,5 +28,5 @@ class LessonService {
         return canceledLesson;
     }
 
-    // Some code here...
+    // Others code here...
 }
